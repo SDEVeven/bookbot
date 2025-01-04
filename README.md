@@ -1,2 +1,2 @@
 # bookbot
-Astrid &lt;3
+BookBot is my first project!
